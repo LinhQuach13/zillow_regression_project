@@ -13,7 +13,7 @@ The following link contains my project planning process on my Trello Board: http
 
 Here is a snapshot of my project planning from my Trello Board
 
-![image](https://user-images.githubusercontent.com/80718476/122064016-678d7d80-cdb6-11eb-8e37-0c88294c8c05.png)
+![image](https://user-images.githubusercontent.com/80718476/122064596-e2569880-cdb6-11eb-805f-7bc4c891acf9.png)
 
 ### Project Summary
 <hr style="border-top: 10px groove blueviolet; margin-top: 1px; margin-bottom: 1px"></hr>
