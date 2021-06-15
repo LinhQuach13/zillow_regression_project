@@ -19,11 +19,6 @@ Here is a snapshot of my project planning from my Trello Board
 <hr style="border-top: 10px groove blueviolet; margin-top: 1px; margin-bottom: 1px"></hr>
 
 
-#### Business Goals
-> - Find drivers for customer churn at Telco.
-> - Construct a ML classification model that accurately predicts customer churn.
-> - Document your process well enough to be presented or read like a report.
-
 #### Audience
 > - Zillow Data Science team
 
@@ -88,7 +83,7 @@ Here is a snapshot of my project planning from my Trello Board
 
   -There is not one main driver for tax value.
  
- - Logistic regression model 1 is better than baseline but with more time I would continue to work with this model to improve the accuracy score
+ - Logistic regression is better than baseline but with more time I would continue to work with this model to improve the accuracy score
   
   - The models I created were a  Linear Regression, Lasso Lars, and Tweedie Regressor. All of the models outperformed the baseline. I chose was the linear regression as my best model with a 10 % improvement for predicting features of Tax Value: Caculated Finished Square Feet, bedroom count, and bathroom count.
   
