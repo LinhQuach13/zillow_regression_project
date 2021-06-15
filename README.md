@@ -19,11 +19,6 @@ Here is a snapshot of my project planning from my Trello Board
 <hr style="border-top: 10px groove blueviolet; margin-top: 1px; margin-bottom: 1px"></hr>
 
 
-#### Business Goals
-> - Find drivers for customer churn at Telco.
-> - Construct a ML classification model that accurately predicts customer churn.
-> - Document your process well enough to be presented or read like a report.
-
 #### Audience
 > - Zillow Data Science team
 
