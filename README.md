@@ -1,7 +1,7 @@
 # Zillow Regression Project
 
 #### View my final powerpoint by clicking the link below
-- [Zillow_project_slideshow](https://www.canva.com/design/DAEhUSbRcyM/4YXSwC3HlhsAWvHlPb94xg/view?utm_content=DAEhUSbRcyM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+- [Zillow-Project-Slideshow](https://www.canva.com/design/DAEhUSbRcyM/4YXSwC3HlhsAWvHlPb94xg/view?utm_content=DAEhUSbRcyM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
 #### Project Objectives
 > - you will need to reference the properties_2017 and predictions_2017 tables.
