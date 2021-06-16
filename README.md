@@ -44,9 +44,13 @@ Here is a snapshot of my project planning from my Trello Board
 #### Data Dictionary
     
 - This is a data dictionary as a reference for the variables used within in the data set.
+
+
  |   Target    |  Data Type   | Description    |
 | :------------- | :----------: | -----------: |
 |  taxvaluedollarcnt | float64   | The total tax assessed value of the parcel |
+
+
 
 |   Feature      |  Data Type   | Description    |
 | :------------- | :----------: | -----------: |
