@@ -44,7 +44,7 @@ def new_zillow_data():
 
 def get_zillow_data(cached=False):
     '''
-    This function reads in zillow churn data from Codeup database and writes data to
+    This function reads in zillow data from Codeup database and writes data to
     a csv file if cached == False or if cached == True reads in telco df from
     a csv file, returns df.
     '''
