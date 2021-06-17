@@ -1,5 +1,8 @@
 # Zillow Regression Project
 
+#### View my final powerpoint by clicking the link below
+- [Zillow-Project-Slideshow](https://www.canva.com/design/DAEhUSbRcyM/4YXSwC3HlhsAWvHlPb94xg/view?utm_content=DAEhUSbRcyM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 #### Project Objectives
 > - you will need to reference the properties_2017 and predictions_2017 tables.
 > - For the first iteration of your model, use only square feet of the home, number of bedrooms, and number of bathrooms to estimate the property's assessed value, taxvaluedollarcnt. You can expand this to other fields after you have completed an mvp (minimally viable product).
@@ -41,9 +44,13 @@ Here is a snapshot of my project planning from my Trello Board
 #### Data Dictionary
     
 - This is a data dictionary as a reference for the variables used within in the data set.
+
+
  |   Target    |  Data Type   | Description    |
 | :------------- | :----------: | -----------: |
 |  taxvaluedollarcnt | float64   | The total tax assessed value of the parcel |
+
+
 
 |   Feature      |  Data Type   | Description    |
 | :------------- | :----------: | -----------: |
